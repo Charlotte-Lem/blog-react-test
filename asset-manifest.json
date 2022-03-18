@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/blog-react-test/static/css/main.68f35ae8.css",
+    "main.js": "/blog-react-test/static/js/main.c8c2e72a.js",
+    "index.html": "/blog-react-test/index.html",
+    "static/media/navbar.svg": "/blog-react-test/static/media/navbar.3dec85e1ceb86bf65df74efeb80b5a08.svg",
+    "main.68f35ae8.css.map": "/blog-react-test/static/css/main.68f35ae8.css.map",
+    "main.c8c2e72a.js.map": "/blog-react-test/static/js/main.c8c2e72a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f35ae8.css",
+    "static/js/main.c8c2e72a.js"
+  ]
+}
